@@ -17,3 +17,7 @@
 <p>太鼓改變了我對待事物的態度以及思考方式，要兼顧練鼓及課業真的很不容易，常會覺得很累很喪氣，但是也因為這樣的磨練，我發現自己變得更堅韌，面對挑戰時不會畏懼而是努力克服。在這個團隊這個大家庭，我學會做事不能總是只為自己著想，而是要優先想到自己的團隊，這可以套用在到家裡或是班上，一個懂得為別人付出的人才是真正厲害的人。</p>
 <p style="color: #009933">@社團粉絲專頁:<a href="https://www.facebook.com/dongshan.taiko/?epa=SEARCH_BOX" target="_blank"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/53921391_1372640749545188_7613004504832671744_n.jpg?_nc_cat=106&_nc_ht=scontent.ftpe8-3.fna&oh=276e8294cf3b524f9f8eee1eb90bf8c4&oe=5D24869C" alt="fb連結"></a>
 <a href="https://www.instagram.com/dshstaiko/" target="_blank"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/54517130_1372643192878277_8449806121417310208_n.jpg?_nc_cat=104&_nc_ht=scontent.ftpe8-4.fna&oh=79a8078d1b0d94dbe06c52dd61817391&oe=5D030963" alt="ig連結"></a>.</p>
+ <label><input type="radio" name="feel" checked> Like</label>
+    <label><input type="radio" name="feel"> Unlike</label><br>
+    <input type="text" placeholder="Suggestion" required>
+    <button type="submit">Submit</button>
