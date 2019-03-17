@@ -1,3 +1,5 @@
+<!doctype html>
+<html lang="en">
 <style>
   body {
     background-color: #CCCCFF;
@@ -21,3 +23,4 @@
     <label><input type="radio" name="feel"> Unlike</label><br>
     <input type="text" placeholder="Suggestion" required>
     <button type="submit">Submit</button>
+ </html> 
